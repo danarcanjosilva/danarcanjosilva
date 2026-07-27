@@ -9,47 +9,49 @@
 - IA baseada em algoritmos genéticos
 - IA baseada em processamento de linguagem natural
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,html,css,python,dotnet,cs,docker,git,github,linux,vscode&perline=15" />
-</p>
+<div style="display: inline_block"><br>
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+</div>
 
----
+##
 
-## 📚 Documentações
+### 📚 Documentações Oficiais
 
-- <img src="https://skillicons.dev/icons?i=js" width="18"/> **JavaScript** → https://developer.mozilla.org/docs/Web/JavaScript
-- <img src="https://skillicons.dev/icons?i=ts" width="18"/> **TypeScript** → https://www.typescriptlang.org/docs/
-- <img src="https://skillicons.dev/icons?i=react" width="18"/> **React** → https://react.dev/
-- <img src="https://skillicons.dev/icons?i=angular" width="18"/> **Angular** → https://angular.dev/
-- <img src="https://skillicons.dev/icons?i=nodejs" width="18"/> **Node.js** → https://nodejs.org/docs/latest/api/
-- <img src="https://skillicons.dev/icons?i=html" width="18"/> **HTML5** → https://developer.mozilla.org/docs/Web/HTML
-- <img src="https://skillicons.dev/icons?i=css" width="18"/> **CSS3** → https://developer.mozilla.org/docs/Web/CSS
-- <img src="https://skillicons.dev/icons?i=python" width="18"/> **Python** → https://docs.python.org/3/
-- <img src="https://skillicons.dev/icons?i=dotnet" width="18"/> **.NET** → https://learn.microsoft.com/dotnet/
-- <img src="https://skillicons.dev/icons?i=cs" width="18"/> **C#** → https://learn.microsoft.com/dotnet/csharp/
-- <img src="https://skillicons.dev/icons?i=docker" width="18"/> **Docker** → https://docs.docker.com/
-- <img src="https://skillicons.dev/icons?i=git" width="18"/> **Git** → https://git-scm.com/doc
-- <img src="https://skillicons.dev/icons?i=github" width="18"/> **GitHub** → https://docs.github.com/
-- <img src="https://skillicons.dev/icons?i=linux" width="18"/> **Linux** → https://www.kernel.org/doc/html/latest/
-- <img src="https://skillicons.dev/icons?i=vscode" width="18"/> **VS Code** → https://code.visualstudio.com/docs
+- 🌐 JavaScript → https://developer.mozilla.org/docs/Web/JavaScript
+- 📘 TypeScript → https://www.typescriptlang.org/docs/
+- ⚛️ React → https://react.dev/
+- 🅰️ Angular → https://angular.dev/
+- 🌐 HTML5 → https://developer.mozilla.org/docs/Web/HTML
+- 🎨 CSS3 → https://developer.mozilla.org/docs/Web/CSS
+- 🐍 Python → https://docs.python.org/3/
+- 💜 C# → https://learn.microsoft.com/dotnet/csharp/
+- 🐳 Docker → https://docs.docker.com/
+- 🌱 Git → https://git-scm.com/doc
+- 🐧 Linux → https://www.kernel.org/doc/html/latest/
 
----
-
-## 📫 Contato
+##
 
 <div>
+  <a href="https://instagram.com/danarcanjosilva" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 
-<a href="https://instagram.com/danarcanjosilva" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+  <a href="mailto:danarcanjosilva@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 
-<a href="mailto:danarcanjosilva@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/danarcanjosilva" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
+  <a href="https://www.linkedin.com/in/danarcanjosilva" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
 ```
