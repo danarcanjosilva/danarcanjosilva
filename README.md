@@ -1,19 +1,36 @@
-## 😁 Olá, me chamo Daniel e sou Programador Full Stack com foco em Inteligência Artificial!
+# 👋 Olá! Eu sou Daniel Arcanjo da Silva
 
-🤖 Meus conceitos são desenvolver novos reforços por algoritmos nas seguintes áreas da IA:
+## 💻 Programador Full Stack | Inteligência Artificial | Machine Learning
 
-- IA baseada em regras
-- IA baseada em aprendizado de máquina
-- IA baseada em redes neurais
-- IA baseada em algoritmos genéticos
-- IA baseada em processamento de linguagem natural
+Sou desenvolvedor Full Stack apaixonado por tecnologia, Inteligência Artificial e automação. Meu foco é desenvolver aplicações modernas, APIs, sistemas inteligentes e soluções baseadas em IA.
+
+### 🤖 Áreas de estudo e desenvolvimento
+
+- 🧠 Inteligência Artificial
+- 📊 Machine Learning
+- 🌐 Processamento de Linguagem Natural (NLP)
+- 🕸️ Redes Neurais
+- 🧬 Algoritmos Genéticos
+- ⚙️ Sistemas Baseados em Regras
+
+## 🚀 Tecnologias
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,dotnet,nodejs,angular,docker,git,github,linux,vscode" />
+</p>
+
+## 📫 Contato
+
+<p align="left">
+  <a href="https://instagram.com/danarcanjosilva">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+  <a href="mailto:danarcanjosilva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/danarcanjosilva">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
