@@ -64,7 +64,7 @@ Sou desenvolvedor **Full Stack** apaixonado por tecnologia, Inteligência Artifi
 
 ## 📫 Contato
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/danarcanjosilva">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
