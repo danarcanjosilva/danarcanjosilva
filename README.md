@@ -21,8 +21,8 @@ Sou desenvolvedor **Full Stack** apaixonado por tecnologia, Inteligência Artifi
 
 ## 🚀 Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,html,css,python,dotnet,cs,docker,git,github,linux,vscode&perline=15" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,html,css,python,julia,dotnet,cs,docker,git,github,linux,vscode&perline=8" />
 </p>
 
 ---
@@ -38,6 +38,7 @@ Sou desenvolvedor **Full Stack** apaixonado por tecnologia, Inteligência Artifi
 | Node.js | https://nodejs.org/docs/latest/api |
 | HTML5 | https://developer.mozilla.org/docs/Web/HTML |
 | CSS3 | https://developer.mozilla.org/docs/Web/CSS |
+|  Julia | https://docs.julialang.org/ |
 | Python | https://docs.python.org/3 |
 | .NET | https://learn.microsoft.com/dotnet |
 | C# | https://learn.microsoft.com/dotnet/csharp |
